@@ -96,7 +96,6 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🔊 _Dolor_
 
 `.trim()
-['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']
 ], m)
 }}
 handler.help = ['menu2', 'help2', '?2', 'menuaudios']
