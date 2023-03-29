@@ -56,6 +56,44 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🔊 _UwU_
 ° ඬ⃟🔊 _:c_
 ° ඬ⃟🔊 _a_
+
+*_NUEVOS_*
+
+° ඬ⃟🔊 _Compartan_
+° ඬ⃟🔊 _Tía_
+° ඬ⃟🔊 _Añañin_
+° ඬ⃟🔊 _Saoo_
+° ඬ⃟🔊 _Goku_
+° ඬ⃟🔊 _Tú no mete_
+° ඬ⃟🔊 _Brr_
+° ඬ⃟🔊 _Autoestima_
+° ඬ⃟🔊 _Épico_
+° ඬ⃟🔊 _Me doxean_
+° ඬ⃟🔊 _Jejeje_
+° ඬ⃟🔊 _Ricolas_
+° ඬ⃟🔊 _Ohh_
+° ඬ⃟🔊 _No es jueves_
+° ඬ⃟🔊 _No digas_
+° ඬ⃟🔊 _Mis ojos_
+° ඬ⃟🔊 _Miércoles_
+° ඬ⃟🔊 _Mff_
+° ඬ⃟🔊 _Me voy_
+° ඬ⃟🔊 _Mamut_
+° ඬ⃟🔊 _Martes_
+° ඬ⃟🔊 _Llamaba charly_
+° ඬ⃟🔊 _Linda_
+° ඬ⃟🔊 _Dime_
+° ඬ⃟🔊 _Coger_
+° ඬ⃟🔊 _Asco_
+° ඬ⃟🔊 _Yair_
+° ඬ⃟🔊 _Ya basta_
+° ඬ⃟🔊 _Telepatía_
+° ඬ⃟🔊 _Something_
+° ඬ⃟🔊 _No sé_
+° ඬ⃟🔊 _Pipipi_
+° ඬ⃟🔊 _Tite_
+° ඬ⃟🔊 _Bendición_
+
 `.trim()
 conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']
