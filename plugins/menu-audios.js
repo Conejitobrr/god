@@ -93,6 +93,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🔊 _Pipipi_
 ° ඬ⃟🔊 _Tite_
 ° ඬ⃟🔊 _Bendición_
+° ඬ⃟🔊 _Dolor_
 
 `.trim()
 conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
