@@ -172,6 +172,11 @@ if (chat.audios && m.text.match(/(bendicion|Bendicion|bendición|Bendición)/gi)
 let vn = './media/Bendicion.mp3'
 this.sendPresenceUpdate('recording', m.chat)
 this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
- 
+
+if (chat.audios && m.text.match(/(Dolor|dolor)/gi)) {
+let vn = './media/Dolor.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+  
 return !0 }
 export default handler
